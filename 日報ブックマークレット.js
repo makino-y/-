@@ -1,0 +1,7 @@
+//新規メッセージテンプレート
+javascript:(function(){document.querySelector(".ms-BasePicker-input").value = 'y-makino@seraku.co.jp',document.querySelector(".ms-TextField-field").value = '【研修ルーム日報】9/5_19218牧野祐介',document.querySelector("._4utP_vaqQ3UQZH0GEBVQe").value = '各位\n\nお疲れ様です。牧野です。\n\n本日の研修ルームでの予定を報告いたします。\n\n目的：\n内訳：\n\n目的：\n内訳：\n\n以上、よろしくお願いします。\n\n-------------------------------------------------------------------\n牧野　祐介（Makino Yusuke）\n株式会社セラク\nSI本部 WEBマーケティングコミュニケーション部\n\n東京都新宿区西新宿7-5-25　西新宿プライムスクエア6F\nTEL: 03-3227-3531　FAX: 03-3227-2131\nE-mail：y-makino@seraku.co.jp\nURL：https://www.seraku.co.jp/\n-------------------------------------------------------------------';})();
+
+//ブックマークレット内の処理内容
+document.querySelector(".ms-BasePicker-input").value = 'webs_renraku@seraku.co.jp';
+document.querySelector(".ms-TextField-field").value = '【研修ルーム日報】9/5_19218牧野祐介';
+document.querySelector("._4utP_vaqQ3UQZH0GEBVQe").value = '各位\n\nお疲れ様です。牧野です。\n\n本日の研修ルームでの予定を報告いたします。\n\n目的：\n内訳：\n\n目的：\n内訳：\n\n以上、よろしくお願いします。\n\n-------------------------------------------------------------------\n牧野　祐介（Makino Yusuke）\n株式会社セラク\nSI本部 WEBマーケティングコミュニケーション部\n\n東京都新宿区西新宿7-5-25　西新宿プライムスクエア6F\nTEL: 03-3227-3531　FAX: 03-3227-2131\nE-mail：y-makino@seraku.co.jp\nURL：https://www.seraku.co.jp/\n-------------------------------------------------------------------';
